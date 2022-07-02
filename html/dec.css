@@ -1,25 +1,17 @@
 body{
     text-align: center;
     background: linear-gradient(#000F30 0%, #072449 28.13%, #8496CD 100%);
-    /* padding-left: 400px;
-    padding-right: 400px; */
     width: 637px;
     margin-left: auto;
     margin-right: auto;
-    /* font-family: 'baiJamjuri', sans-serif; */
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 16px;
+    font-style: normal;
 }
-/* .center{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-} */
 div{
     color: #E5E5E5;
     display: block;
     padding-bottom: 2em;
-}
-h1{
-    color: white;
 }
 img{
     width: 100%;
@@ -39,20 +31,28 @@ figure {
     margin-inline-end: 0px;
 }
 
-/* @font-face {
-    font-family: baiJamjuri;
-    src: url(webfontkit-20220701-100806/);
-} */
 
 #head{
     font-size: 48px;
     margin-bottom: 0px;
+    color: white;
+    font-family: 'Inter', 'Bai Jamjuree', sans-serif;
 }
 #sub{
     font-size: 26.6px;
     margin-top: 0px;
+    font-family: 'Inter', 'Bai Jamjuree', sans-serif;
 }
 .cap{
     font-size: 14px;
     padding-top: 5px;
+    font-family: 'Inter', 'Bai Jamjuree', sans-serif;
 }
+.topic{
+    font-size: 32px;
+    font-family: 'Inter', 'Bai Jamjuree', sans-serif;
+    font-style: Thin;
+}
+
+
+
